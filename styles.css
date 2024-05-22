@@ -1,0 +1,28 @@
+.navigation {
+    background-color: #fcfcfc;
+}
+.h1{
+    align-items: center;
+    padding-left: 800px;
+}
+
+.navigation-list {
+    list-style-type: none;
+    margin: 90px;
+    padding: 700px;
+}
+
+.navigation-item {
+    display: inline;
+}
+
+.navigation-link {
+    display: block;
+    color: rgb(121, 67, 207);
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.navigation-link:hover {
+    background-color: #f8bef5;
+}
